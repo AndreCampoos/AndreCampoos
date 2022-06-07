@@ -18,7 +18,7 @@
 </div>
 ##
 <div>
-  <a href:"mailto:andrecampos911@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=_blank style=border-radius: "5px"></a>
-  <a href:"https://intagram.com/acampoos.01"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target=_blank></a>
+  <a href:"mailto:andrecampos911@gmail.com" target=_blank><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=_blank style=border-radius: "5px"></a>
+  <a href:"https://intagram.com/acampoos.01" target=_blank><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target=_blank></a>
 </div>
                                                  
